@@ -1,2 +1,1 @@
-# pharmacy
 starting page
